@@ -12,4 +12,4 @@ A simple training app for memorizing the digits of Pi.
 
 ## お問い合わせ / Contact
 
-【連絡先メールアドレス】
+sawadee222@gmail.com
