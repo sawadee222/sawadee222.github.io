@@ -11,13 +11,13 @@
 ### よくある質問
 
 **間違えたとき、どこからやり直しになりますか？**
-設定（歯車のボタン）の「リスタート設定」で決めた位置に戻ります。初期設定では、直前の 10 桁区切りに戻ります。
+設定（歯車のボタン）の「リスタート設定」で決めた位置に戻ります。初期設定では、直前の 10 桁区切りに戻ります。「間違えたら手前に戻る」をオフにすると、戻らずに、間違えた桁からそのまま続けられます。
 
 **記録はどこに保存されますか？**
 自己ベストと設定は、お使いの端末内にのみ保存されます。アプリを削除すると記録も削除されます。機種変更時の引き継ぎには対応していません。
 
 **音を消したい**
-端末の消音スイッチ、または音量ボタンで調整してください。
+設定（歯車のボタン）の「クリック音」をオフにしてください。音の大きさは、端末の音量ボタンで調整できます。マナーモード（消音スイッチ）では音は消えません。
 
 **何桁まで挑戦できますか？**
 小数点以下 10,000 桁までです。
@@ -37,13 +37,13 @@ PiDojo is a training app for memorizing Pi by typing it one digit at a time.
 ### FAQ
 
 **Where do I restart from after a mistake?**
-You return to the position chosen in the restart settings (the gear button). By default, you go back to the previous multiple of 10 digits.
+You return to the position chosen in the restart settings (the gear button). By default, you go back to the previous multiple of 10 digits. If you turn off the first switch in the restart settings (間違えたら手前に戻る), you stay where you are and continue from the digit you missed.
 
 **Where are my records stored?**
 Your best score and settings are stored only on your device. Deleting the app deletes them. Transferring records to a new device is not supported.
 
 **How do I turn off the sound?**
-Use the silent switch or the volume buttons on your device.
+Open the settings (the gear button) and turn off the sound switch (クリック音). You can adjust the loudness with the volume buttons on your device. The silent switch does not mute the app.
 
 **How many digits can I try?**
 Up to 10,000 decimal places.
