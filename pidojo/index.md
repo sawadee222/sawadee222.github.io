@@ -26,7 +26,7 @@
 
 不具合の報告やご要望は、以下までご連絡ください。
 
-【連絡先メールアドレス】
+sawadee222@gmail.com
 
 ---
 
@@ -52,4 +52,4 @@ Up to 10,000 decimal places.
 
 To report a problem or send feedback, please contact:
 
-[Contact email address]
+sawadee222@gmail.com

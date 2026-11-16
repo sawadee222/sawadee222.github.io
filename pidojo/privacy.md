@@ -44,7 +44,7 @@
 
 本ポリシーに関するお問い合わせは、以下までご連絡ください。
 
-【連絡先メールアドレス】
+sawadee222@gmail.com
 
 ---
 
@@ -86,4 +86,4 @@ If we change this policy, the updated version will be posted on this page.
 
 If you have any questions about this policy, please contact:
 
-[Contact email address]
+sawadee222@gmail.com
